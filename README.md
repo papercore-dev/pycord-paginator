@@ -1,3 +1,4 @@
+## This project's maintainer have been changed into papercore-dev. If you have any question, create issue :)
 <div align="center">
     <div>
         <h1>Pycord-Paginator</h1>
