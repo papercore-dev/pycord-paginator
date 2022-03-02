@@ -12,7 +12,7 @@
 </div>
 
 ## Welcome!
-It's a paginator for pycord-componets! Thanks to the original creator khk4912 (khk4912 /EZPaginator)!
+It's a paginator for pycord-components! Thanks to the original creator khk4912 (khk4912 /EZPaginator)!
 
 This project is open source ⭐.
 
@@ -26,7 +26,7 @@ pip install --upgrade PycordPaginator
 
 ## Example
 ```py
-from PagiNation import Paginator
+from PycordPaginator import Paginator
 from discord.ext.commands import Bot
 from pycord_components import PycordComponents
 import discord
